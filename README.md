@@ -7,9 +7,9 @@ A developing project for the Horiseon website that refactors it's code to meet t
 
 # Product
 
-![Screenshot of the Horiseon Webpage](https://user-images.githubusercontent.com/80929740/115324197-515c9b80-a13e-11eb-9845-3561d11cc6a3.png)
+<img src="https://user-images.githubusercontent.com/80929740/115324197-515c9b80-a13e-11eb-9845-3561d11cc6a3.png" width="200" height="400"/>
 
 
 # Links
 
-[Horiseon | Social Solution Services](https://tannercarter.github.io/horiseon-social-solution-services/)
+[Horiseon | Social Solution Services](https://tannercarter.github.io/horiseon-social-solution-services/ )

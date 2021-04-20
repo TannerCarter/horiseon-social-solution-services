@@ -7,7 +7,7 @@ A developing project for the Horiseon website that refactors it's code to meet t
 
 # Product
 
-<img src="https://user-images.githubusercontent.com/80929740/115324197-515c9b80-a13e-11eb-9845-3561d11cc6a3.png" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/80929740/115324197-515c9b80-a13e-11eb-9845-3561d11cc6a3.png" width="200" height="400" alt="A screenshot of the refactored Horiseon Webpage"/>
 
 
 # Links

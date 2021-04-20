@@ -7,13 +7,13 @@ A developing project for the Horiseon website that refactors it's code to meet t
 
 # Tasks
 
-Met accessibility standards
-Semantic HTML elements added
-Logical Structure
-Alt attributes added
-Heading attributes in sequential order
-Title element changed to a concisive one
-Consolidated classes for styling and efficiency
+- Met accessibility standards
+- Semantic HTML elements added
+- Logical Structure
+- Alt attributes added
+- Heading attributes in sequential order
+- Title element changed to a concisive one
+- Consolidated classes for styling and efficiency
 
 # Product
 
